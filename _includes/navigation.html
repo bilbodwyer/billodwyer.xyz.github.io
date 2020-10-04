@@ -1,0 +1,13 @@
+<div class="navbar">
+        <a href="/" {% if page.url == "/" %} class="navitem current" {% else %} class="navitem" {% endif %}><img class="profilepic" src="/assets/images/profile.jpg"></a>
+        {%- for item in site.data.navigation -%}
+            <a href="{{ item.link }}"
+                {%- if page.url == item.url -%}
+                    class="navitem current"
+                {%- else -%}
+                    class="navitem"
+                {%- endif -%}>
+                <h2>{{ item.name }}</h2>
+            </a>
+        {%- endfor -%}
+</div>

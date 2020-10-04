@@ -1,0 +1,41 @@
+.navbar {
+    background: #c9c9c9;
+    width: 100%;
+}
+
+.profilepic {
+    border-radius: 50%;
+    width: 40px;
+    vertical-align: middle;
+    height: inherit;
+    margin: 8px;
+}
+
+.navitem {
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 0.5em;
+
+}
+
+.navitem:hover {
+    background-color: #e4e4e4;
+    opacity: 65%;
+}
+
+.navbar h2 {
+    margin: 0.25em 0;
+    letter-spacing: -1px;
+    color: #8c4646;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black
+}
+
+.current {
+    background-color: #e4e4e4;
+}

@@ -1,0 +1,17 @@
+---
+title: Contact Bill &sdot; billodwyer.xyz
+layout: default
+---
+
+<h1 class="heading">Contact Bill</h1>
+<p class="blurb"><em>Want to get in touch? Want to keep up with my infrequent social media postings? Want to link up with me on gaming services? You've come to the right place! Have a look below and pick your preferred means.</em></p>
+
+{%- for item in site.data.contact -%}
+    <div>
+        <a class="contactitem" href="{{ item.url }}">
+            {{ item.icon }} {{ item.name }}
+        </a>
+    </div>
+{%- endfor -%}
+
+

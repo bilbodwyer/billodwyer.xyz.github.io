@@ -1,0 +1,94 @@
+body {
+    margin: 0 auto;
+    font-family: 'Palanquin', sans-serif;
+    background: #e4e4e4;
+}
+
+.heading {
+    font-size: 50px;
+    letter-spacing: -2px;
+    margin: 0.5em 0 0 0;
+    color: #8c4646;
+}
+.blurb {
+    margin: 0 0 1.5em 0;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));
+}
+
+// Home page 
+.splashpic {
+    border-radius: 20%;
+    width: 90%;
+}
+
+.vitalstats {
+  -webkit-columns: 2 250px;
+     -moz-columns: 2 250px;
+          columns: 2 250px;
+}
+
+.vitalstats a {
+    color: #8c4646;
+    text-decoration: none;
+}
+
+// Blog post list
+.title a {
+    margin: 0;
+    text-decoration: none;
+    color: #8c4646;
+}
+.title {
+    margin: 0;
+    font-size: 24px;
+}
+.date {
+    text-decoration: italic;
+    margin: 0;
+    font-size: 14px;
+}
+.excerpt {
+    margin: 0 0 1.5em 0;
+}
+.pagination {
+    text-align: center;
+}
+.previous {
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    color: #8c4646;
+}
+.next {
+    font-size: 20px;
+    float: right;
+    text-decoration: none;
+    color: #8c4646;
+}
+
+// Blog posts
+.olderpost {
+    float: left;
+    text-decoration: none;
+    color: #8c4646;
+}
+.newerpost {
+    float: right;
+    text-decoration: none;
+    color: #8c4646;
+}
+
+// Contact Page
+.contactitem {
+    text-decoration: none;
+    color: black;
+}
+
+i {
+    color: #8c4646;
+}

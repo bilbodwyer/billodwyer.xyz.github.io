@@ -1,0 +1,29 @@
+- name: Email
+  url : mailto:bill.odwyer.uk@gmail.com
+  icon: <i class="fa fa-envelope"></i>
+
+  
+- name: Twitter
+  url : https://twitter.com/bilbodwyer
+  icon: <i class="fab fa-twitter"></i>
+
+- name: Instagram
+  url : https://instagram.com/bilbodwyer
+  icon: <i class="fab fa-instagram"></i>
+
+- name: Goodreads
+  url : https://www.goodreads.com/user/show/83391157-bill-o-dwyer
+  icon: <i class="fab fa-goodreads"></i>
+
+- name: Steam
+  url : https://steamcommunity.com/profiles/76561198038954148/
+  icon: <i class="fa fa-steam"></i>
+
+- name: Discord
+  url : /discord.html
+  icon: <i class="fab fa-discord"></i>
+
+- name: Nintendo Switch Online
+  url : /switch.html
+  icon: <i class="fa fa-gamepad"></i>
+

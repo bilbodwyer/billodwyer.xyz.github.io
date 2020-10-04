@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1 class="heading">{{ page.title}}</h1>
+<p class="blurb"><em>{{ page.date | date_to_string }}</em></p>
+
+{{ content }}
+
+<hr>
+
+<!-- Post navigation -->
+<div class="postnav">
+    <span class="olderpost">
+        {%- if page.previous.url -%}
+            <a class="olderpost" href="{{page.previous.url}}">&lt;&lt; Older Post</a>
+        {%- endif -%}
+    </span>
+    
+    <span class="newerpost">
+        {%- if page.next.url -%}
+            <a class="newerpost" href="{{page.next.url}}">Newer Post &gt;&gt;</a>
+        {%- endif -%}
+    </span>
+</div>
+
+<script src="https://kit.fontawesome.com/036c384da2.js" crossorigin="anonymous"></script>

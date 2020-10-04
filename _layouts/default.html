@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Basic Page Needs -->
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta name="author" content="Bill O'Dwyer">
+        <meta name="description" content={{ page.description }}>
+        
+        {% feed_meta %}
+    
+        <!-- Mobile Specific Metas -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+        <!-- FONT -->
+        <link href="https://fonts.googleapis.com/css2?family=Palanquin:wght@400;700&display=swap" rel="stylesheet"> 
+        <script src="https://kit.fontawesome.com/036c384da2.js" crossorigin="anonymous"></script>
+        
+        <!-- CSS -->
+        <link rel="stylesheet" href ="/assets/css/styles.css"
+    
+        <!-- Plausible analytics -->
+        <script async defer data-domain="billodwyer.xyz" src="https://plausible.io/js/plausible.js"></script>
+
+    </head>
+    <body>
+        {% include navigation.html %}
+        <div class="content">
+            {{ content }}
+        </div>
+    </body>
+    
+</html>

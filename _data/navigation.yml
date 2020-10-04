@@ -1,0 +1,19 @@
+- name: Blog
+  link: /blog/index.html
+  url : /blog/
+
+# - name: Music
+#   link: /music.html
+  
+# - name: Coding
+#  link: /coding.html
+
+# - name: Wishlist
+#  link: /wishlist.html
+
+# - name: Referrals
+#  link: /referrals.html
+
+- name: Contact
+  link: /contact.html
+  url : /contact.html
