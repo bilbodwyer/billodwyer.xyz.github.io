@@ -23,7 +23,7 @@ email: bill@billodwyer.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   The online home of Bill O'Dwyer, a freelance musician, writer, and web developer from Leeds.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://billodwyer.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://billodwyer.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bilbodwyer1
 github_username:  bilbodwyer
 
