@@ -4,7 +4,7 @@ title: 'A Ramble About Language'
 date: '2020-11-05'
 author: 'Bill'
 tags: [nablowrimo, timasomo]
-image: /assets/images/posts/.jpg
+image: /assets/images/posts/language.jpg
 ---
 
 Contrary to what certain magical sitars may have you believe, the greatest thing you will ever learn is language. The developing human brain is exquisitely wired for language learning, taking these strange vibrations in the air and translating them into thoughts and meaning.
