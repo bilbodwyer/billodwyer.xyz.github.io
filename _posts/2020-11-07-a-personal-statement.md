@@ -3,7 +3,7 @@ layout: post
 title: 'A Personal Statement'
 date: '2020-11-07'
 author: 'Bill'
-tags: '[nablowrimo, timasomo]'
+tags: [nablowrimo, timasomo]
 image: /assets/images/posts/personalstatement.jpg
 ---
 
