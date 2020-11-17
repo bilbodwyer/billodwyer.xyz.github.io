@@ -7,8 +7,8 @@ tags: [nablowrimo, timasomo]
 image: /assets/images/posts/hotchoc.jpg
 ---
 
-Hot choc is quite bad for me
-It's so milky and sugary
-But I drink it nightly
-With whisky? Precisely!
-And gulp it down quite eagerly
+Hot choc is quite bad for me  
+It's so milky and sugary  
+But I drink it nightly  
+With whisky? Precisely!  
+And gulp it down quite eagerly  
