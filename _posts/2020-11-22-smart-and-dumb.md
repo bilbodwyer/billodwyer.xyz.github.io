@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart and dumb'
-date: '2020-11-20'
+date: '2020-11-22'
 author: 'Bill'
 tags: [nablowrimo, timasomo]
 image: /assets/images/posts/measure.jpg
