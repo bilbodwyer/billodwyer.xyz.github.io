@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Were I a rich man'
-date: '2020-11-29'
+date: '2020-11-28'
 author: 'Bill'
-tags: [nablowrimo, timasomo]
+tags: [nablowrimo, timasomo, poetry]
 image: /assets/images/posts/time.jpg
 ---
 
