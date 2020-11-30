@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Were I a rich man'
+title: 'Penultimate non-entry'
 date: '2020-11-29'
 author: 'Bill'
 tags: [nablowrimo, timasomo, poetry]
