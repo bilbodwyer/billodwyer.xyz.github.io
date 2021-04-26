@@ -5,7 +5,6 @@ date: '2021-03-24'
 author: 'Bill'
 tags: []
 image: /assets/images/posts/spam.jpg
-
 ---
 
 I don't quite know where all the spam I get comes from. Most of it is the usual phallic enhancement stuff that goes straight into the junk folder without my even having to think about it, but occasionally, you get an absolute pearler that slips the net and comes through to the inbox proper. Today I received an email from one Fred Feild (sic), direct to my inbox. He was asking for help to buy his friend a birthday present, as the poor chap's bank had rejected his bank card. Taking a leaf out of the book of [James Vietch](https://www.youtube.com/watch?v=LiLS7U7YIdc), I decided that I would reply. What follows is the chain of emails.   
